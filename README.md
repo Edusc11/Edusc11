@@ -20,7 +20,6 @@ Estou sempre buscando aprender na prática através de projetos reais e desafios
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -36,7 +35,7 @@ Estou sempre buscando aprender na prática através de projetos reais e desafios
 
 - 🎓 Cursando Desenvolvimento de Sistemas no SENAI
 - 📱 Aprendendo desenvolvimento Android com Java e XML
-- 🌐 Estudando JavaScript
+- 🌐 Estudando JavaScript e Java
 - 🐍 Aprendendo Python
 - 💾 Estudando Banco de Dados
 - 🚀 Aprendendo Git e GitHub
